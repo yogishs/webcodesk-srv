@@ -14,7 +14,7 @@
   "dependencies": {
     "@babel/runtime": "7.8.7",
     "body-parser": "1.19.0",
-    "chokidar": "2.0.4",
+    "chokidar": "2.1.8",
     "express": "4.17.1",
     "fix-path": "2.1.0",
     "fs-extra": "7.0.0",
